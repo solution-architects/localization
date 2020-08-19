@@ -1,0 +1,27 @@
+﻿
+
+
+/* No comment provided by engineer. */
+"Account" = "Konto";
+
+/* No comment provided by engineer. */
+"Account Info" = "Kontoinformation";
+
+/* alt text for expense accounting review icon */
+"Project Info" = "Projektinfo";
+
+/* No comment provided by engineer. */
+"Acknowledgements" = "Danksagung";
+
+/* No comment provided by engineer. */
+"Acting as ultimate approver" = "Als ultimativer Genehmiger fungieren";
+
+/* Insert new contact button */
+"contact-editor.insert-new-contact-button" = "Kontakt einfügen";
+/* Delete contact button */
+"contact-editor.delete-contact-button" = "Kontakt löschen";
+
+/* Insert new contact button */
+"contact-editor.insert-new-contact-button-twi" = "Kontakt Zwei einfügen";
+/* Delete contact button */
+"contact-editor.delete-contact-button-two" = "Kontakt Zwei löschen";
